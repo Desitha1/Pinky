@@ -3,18 +3,18 @@
     "description": "pinky bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.imgur.com/zdcqaaG.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/afnanplk/Pinky_V2",
+    "repository": "",https://github.com/Desitha1
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
     "env": {
         "PINKY_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
-            "required": true
+            "description": Pinky___eyJjbGllbnRJRCI6Inp0aHRubVY2bGdLcnl0eHVZcHhENnc9PSIsInNlcnZlclRva2VuIjoiMUBQczhHRVJIU21ocGMrM29kSk14UUVvZlE5bUdVUDd6Ri9OMmkwMW9LSVhuRVN1Nm82YXZMclZsSkVweDJLcWFSMmR2a2lTeG45dS9oR1E9PSIsImNsaWVudFRva2VuIjoibTFZT0hIbXJZY3daMURFN0xJOG43WmRQVTFQSnV5WFB1eEJtWTRYaFJJdz0iLCJlbmNLZXkiOiI1NjcweEo4Zk5WUmRtUzJqeGpYYUZMczQ5c3YzWHZSNXJpbndNNXNzN0VRPSIsIm1hY0tleSI6IkhHZlg0UTFnQ0lXQ0psWnJGNnVNNjhpa3BjL0ZyUW11NEVKaUNKRlQ0enM9In0=,
+            "required": Pinky___eyJjbGllbnRJRCI6Inp0aHRubVY2bGdLcnl0eHVZcHhENnc9PSIsInNlcnZlclRva2VuIjoiMUBQczhHRVJIU21ocGMrM29kSk14UUVvZlE5bUdVUDd6Ri9OMmkwMW9LSVhuRVN1Nm82YXZMclZsSkVweDJLcWFSMmR2a2lTeG45dS9oR1E9PSIsImNsaWVudFRva2VuIjoibTFZT0hIbXJZY3daMURFN0xJOG43WmRQVTFQSnV5WFB1eEJtWTRYaFJJdz0iLCJlbmNLZXkiOiI1NjcweEo4Zk5WUmRtUzJqeGpYYUZMczQ5c3YzWHZSNXJpbndNNXNzN0VRPSIsIm1hY0tleSI6IkhHZlg0UTFnQ0lXQ0psWnJGNnVNNjhpa3BjL0ZyUW11NEVKaUNKRlQ0enM9In0=
         },
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
-            "required": false
+            "required": +94714649769
         },
         "LANGUAGE": {
             "description": "only en & ml language is available",
@@ -49,11 +49,11 @@
          "STICKER_REPLY": {
             "description": "if you need Automatic sticker reply type'true'. Otherwise false",
             "required": false,
-            "value": "true"
+            "value": "false"
         },  
         "NUMBER": {
             "description": "give your orginal phone number if you wish to add it in .number cmnd ",
-            "required": false
+            "required": 0714649769
         },
          "BAD_WORDS": {
             "description": "enter the word you dont allow in your group ",
@@ -107,7 +107,7 @@
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
-            "required": true
+            "required": 216a8949-335c-4459-a189-b5a5c04039cd
         },
         "MUTE_MESSAGE": {
             "description": "Düzenlenebilir Mute Mesajı. Customizable Mute Message! Use => default, to change back.",
